@@ -1,4 +1,4 @@
-package com.tcs.gof_spring_boot;
+package com.tcs.gofspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
